@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://codesaif.in">
-    <img alt="logo" src="assets/logo512.svg" width="60" />
+    <img alt="logo" src="assets/logo512.png" width="60" />
   </a>
 </p>
 <h1 align="center">
