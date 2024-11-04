@@ -16,7 +16,7 @@ With the Fake Tweet Generator tool you can create convincing fake tweet images. 
 
 ## Live Demo
 
-See it live [here](https://shashiirk.github.io/fake-tweet-generator).
+See it live [here](codesaif.in/tools/fake-tweet-maker).
 
 ## Licence
 
